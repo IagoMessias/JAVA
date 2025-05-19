@@ -18,6 +18,7 @@ public class AlunosMelhorado {
 			System.out.println("Escreva a nota do aluno: "+(i+1));
 			int notasR = entrada.nextInt();
 			notas[i]=notasR;
+			//testes
 			
 		}
 		String aprovação = "Aprovado";		
